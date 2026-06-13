@@ -2,6 +2,8 @@
 
 A simple QR code stamp rally app for real-world events.
 
+![Sample poster](<image/Sample.png>)
+
 Participants scan QR codes with their smartphones to collect stamps. When they collect all stamps, they can show the completion page to staff and receive a prize or reward.
 
 This project runs as a static website, so it can be hosted on GitHub Pages, Netlify, Vercel, Cloudflare Pages, or any ordinary web server.
