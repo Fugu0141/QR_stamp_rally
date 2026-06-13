@@ -12,9 +12,7 @@ The default sample is a **5-stamp rally**, but you can change the number of stam
 
 A sample page is available here:
 
-```txt
-https://fugu0141.github.io/stamp-rally/
-```
+[![Live Sample](https://img.shields.io/badge/Live%20Sample-open-blue)](https://fugu0141.github.io/stamp-rally/)
 
 ## Features
 
